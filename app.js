@@ -31,9 +31,7 @@ function rgbRandom() {
 }
 
 function change() {
-  console.log(hexaColor.textContent);
   document.body.style.backgroundColor = rgbRandom();
-  console.log(rgbRandom);
 }
 
 function copy() {
