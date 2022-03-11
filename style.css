@@ -1,0 +1,12 @@
+.card {
+  background-color: rgba(245, 245, 245, 0.4);
+  border-radius: 50px 50px;
+}
+.btn {
+  background-color: rgba(245, 245, 245, 0.4);
+  font-weight: bold;
+  border-radius: 50px 50px;
+}
+body {
+  background-color: #533e85;
+}
